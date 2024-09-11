@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJewerlyStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JewerlyStore mainAdress="123 Main Street" numberOfJewerly="5">
+    <Catalog>
+      <Jewerly name="Necklace" metal="Gold" masa="10" price="500" />
+      <Jewerly name="Ring" metal="Silver" masa="5" price="200" />
+      <Jewerly name="Earrings" metal="Diamond" masa="3" price="1000" />
+    </Catalog>
+  </JewerlyStore>
+  <JewerlyStore mainAdress="456 Oak Avenue" numberOfJewerly="3">
+    <Catalog>
+      <Jewerly name="Bracelet" metal="Silver" masa="8" price="300" />
+      <Jewerly name="Watch" metal="Steel" masa="2" price="150" />
+      <Jewerly name="Pendant" metal="Gold" masa="5" price="800" />
+    </Catalog>
+  </JewerlyStore>
+  <JewerlyStore mainAdress="789 Pine Lane" numberOfJewerly="2">
+    <Catalog>
+      <Jewerly name="Brooch" metal="Diamond" masa="4" price="600" />
+      <Jewerly name="Anklet" metal="Silver" masa="6" price="250" />
+    </Catalog>
+  </JewerlyStore>
+  <JewerlyStore mainAdress="123 NotMain Street" numberOfJewerly="10">
+    <Catalog>
+      <Jewerly name=" Anklet" metal="Silver" masa="6" price="250" />
+      <Jewerly name=" Bracelet" metal="Silver" masa="8" price="300" />
+      <Jewerly name=" Brooch" metal="Diamond" masa="4" price="600" />
+      <Jewerly name=" Cufflinks" metal="Gold" masa="3" price="400" />
+      <Jewerly name=" Earrings" metal="Diamond" masa="3" price="1000" />
+      <Jewerly name=" Necklace" metal="Gold" masa="10" price="500" />
+      <Jewerly name=" Pendant" metal="Gold" masa="5" price="800" />
+      <Jewerly name=" Ring" metal="Silver" masa="5" price="200" />
+      <Jewerly name=" Tiara" metal="Platinum" masa="7" price="1200" />
+      <Jewerly name=" Watch" metal="Steel" masa="2" price="150" />
+    </Catalog>
+  </JewerlyStore>
+  <JewerlyStore mainAdress="456 Oat Avenue" numberOfJewerly="10">
+    <Catalog>
+      <Jewerly name=" Anklet" metal="Gold" masa="7" price="300" />
+      <Jewerly name=" Bracelet" metal="Platinum" masa="10" price="500" />
+      <Jewerly name=" Brooch" metal="Diamond" masa="5" price="700" />
+      <Jewerly name=" Cufflinks" metal="Silver" masa="4" price="250" />
+      <Jewerly name=" Earrings" metal="Silver" masa="4" price="150" />
+      <Jewerly name=" Pendant" metal="Silver" masa="8" price="400" />
+      <Jewerly name=" Ring" metal="Gold" masa="6" price="300" />
+      <Jewerly name=" Tiara" metal="Gold" masa="9" price="1000" />
+      <Jewerly name=" Watch" metal="Steel" masa="3" price="200" />
+      <Jewerly name="Necklace" metal="Diamond" masa="12" price="800" />
+    </Catalog>
+  </JewerlyStore>
+  <JewerlyStore mainAdress="789 Pline Lane" numberOfJewerly="10">
+    <Catalog>
+      <Jewerly name=" Anklet" metal="Diamond" masa="8" price="400" />
+      <Jewerly name=" Bracelet" metal="Platinum" masa="12" price="700" />
+      <Jewerly name=" Brooch" metal="Gold" masa="6" price="800" />
+      <Jewerly name=" Cufflinks" metal="Platinum" masa="5" price="350" />
+      <Jewerly name=" Earrings" metal="Diamond" masa="5" price="1200" />
+      <Jewerly name=" Necklace" metal="Silver" masa="15" price="600" />
+      <Jewerly name=" Pendant" metal="Silver" masa="10" price="500" />
+      <Jewerly name=" Ring" metal="Gold" masa="8" price="250" />
+      <Jewerly name=" Tiara" metal="Silver" masa="11" price="1500" />
+      <Jewerly name=" Watch" metal="Steel" masa="4" price="300" />
+    </Catalog>
+  </JewerlyStore>
+</ArrayOfJewerlyStore>

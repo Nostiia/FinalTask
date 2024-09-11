@@ -1,0 +1,153 @@
+123 NotMain Street
+Id : 16 
+ Name:  Anklet,
+ Metal: Silver, Mass: 6,
+ Price: 250. 
+
+Id : 12 
+ Name:  Bracelet,
+ Metal: Silver, Mass: 8,
+ Price: 300. 
+
+Id : 15 
+ Name:  Brooch,
+ Metal: Diamond, Mass: 4,
+ Price: 600. 
+
+Id : 18 
+ Name:  Cufflinks,
+ Metal: Gold, Mass: 3,
+ Price: 400. 
+
+Id : 11 
+ Name:  Earrings,
+ Metal: Diamond, Mass: 3,
+ Price: 1000. 
+
+Id : 9 
+ Name:  Necklace,
+ Metal: Gold, Mass: 10,
+ Price: 500. 
+
+Id : 14 
+ Name:  Pendant,
+ Metal: Gold, Mass: 5,
+ Price: 800. 
+
+Id : 10 
+ Name:  Ring,
+ Metal: Silver, Mass: 5,
+ Price: 200. 
+
+Id : 17 
+ Name:  Tiara,
+ Metal: Platinum, Mass: 7,
+ Price: 1200. 
+
+Id : 13 
+ Name:  Watch,
+ Metal: Steel, Mass: 2,
+ Price: 150. 
+
+456 Oat Avenue
+Id : 26 
+ Name:  Anklet,
+ Metal: Gold, Mass: 7,
+ Price: 300. 
+
+Id : 22 
+ Name:  Bracelet,
+ Metal: Platinum, Mass: 10,
+ Price: 500. 
+
+Id : 25 
+ Name:  Brooch,
+ Metal: Diamond, Mass: 5,
+ Price: 700. 
+
+Id : 28 
+ Name:  Cufflinks,
+ Metal: Silver, Mass: 4,
+ Price: 250. 
+
+Id : 21 
+ Name:  Earrings,
+ Metal: Silver, Mass: 4,
+ Price: 150. 
+
+Id : 24 
+ Name:  Pendant,
+ Metal: Silver, Mass: 8,
+ Price: 400. 
+
+Id : 20 
+ Name:  Ring,
+ Metal: Gold, Mass: 6,
+ Price: 300. 
+
+Id : 27 
+ Name:  Tiara,
+ Metal: Gold, Mass: 9,
+ Price: 1000. 
+
+Id : 23 
+ Name:  Watch,
+ Metal: Steel, Mass: 3,
+ Price: 200. 
+
+Id : 19 
+ Name: Necklace,
+ Metal: Diamond, Mass: 12,
+ Price: 800. 
+
+789 Pline Lane
+Id : 36 
+ Name:  Anklet,
+ Metal: Diamond, Mass: 8,
+ Price: 400. 
+
+Id : 32 
+ Name:  Bracelet,
+ Metal: Platinum, Mass: 12,
+ Price: 700. 
+
+Id : 35 
+ Name:  Brooch,
+ Metal: Gold, Mass: 6,
+ Price: 800. 
+
+Id : 38 
+ Name:  Cufflinks,
+ Metal: Platinum, Mass: 5,
+ Price: 350. 
+
+Id : 31 
+ Name:  Earrings,
+ Metal: Diamond, Mass: 5,
+ Price: 1200. 
+
+Id : 29 
+ Name:  Necklace,
+ Metal: Silver, Mass: 15,
+ Price: 600. 
+
+Id : 34 
+ Name:  Pendant,
+ Metal: Silver, Mass: 10,
+ Price: 500. 
+
+Id : 30 
+ Name:  Ring,
+ Metal: Gold, Mass: 8,
+ Price: 250. 
+
+Id : 37 
+ Name:  Tiara,
+ Metal: Silver, Mass: 11,
+ Price: 1500. 
+
+Id : 33 
+ Name:  Watch,
+ Metal: Steel, Mass: 4,
+ Price: 300. 
+

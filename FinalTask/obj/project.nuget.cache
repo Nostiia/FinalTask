@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JF2z9kOtRrR0JkTQciwcAeoD3K0GUejg6REbUyI73+aVR3LpKa0+W9q3LxWZogVjfwv5LagWYJFpnbv/R8A6rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\golub\\OneDrive\\Documents\\C#\\SoftServe\\FinalTask\\FinalTask\\FinalTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\golub\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\golub\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

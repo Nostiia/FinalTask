@@ -1,0 +1,5 @@
+Diamond- 8
+Gold- 10
+Platinum- 4
+Silver- 12
+Steel- 4
